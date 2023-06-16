@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300px;
+}
+
+/*Barra de opciones inicial*/
+header img {
+    width: 100px;
+}
+
+/* fila de elementos */
+main h5 {
+    font-size: 20px;
+    color: #212529;
+}
+
+main h4 {
+    font-weight: 500px;
+}
+
+main p {
+    padding: 0;
+    margin: 0;
+}
+
+main ul {
+    margin: 0;
+}
+
+/* comienza formulario */
+section {
+    font-size: 21px;
+    font-weight: 500px;
+}
+
+/* formulario y final de pagina */
+footer img {
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+footer p {
+    color: #707070;
+}
+
+section button {
+    font-weight: 500px;
+}
+
+.img-of-bot-cuppon {
+    display: flex;
+    justify-content: center;
+}
+
+.last-information {
+    display: flex;
+    justify-content: center;
+}
